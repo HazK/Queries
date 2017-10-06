@@ -1,0 +1,1 @@
+sp_WhoIsActive @find_block_leaders BIT = 0
